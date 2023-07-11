@@ -1,0 +1,1 @@
+Created a read me file from the command to better understand
